@@ -117,10 +117,3 @@ This project provided hands-on experience in data preparation, exploratory data 
 
 The analysis revealed important sales patterns across products, stores, and time periods. These insights demonstrate how data analysis can support better business decisions related to inventory management, staffing, and sales strategies.
 
-## 11. Author
-
-**Phuong Truong**
-
-Data Analytics Student | Aspiring Data Analyst
-
-[GitHub Profile](https://github.com/nphuongtr)
